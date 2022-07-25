@@ -48,3 +48,6 @@ In order to get insights from the data, we queried the data set a bit. From thes
 
 #### Distribution of the Dog stages
 ![Screenshot (53)](https://user-images.githubusercontent.com/106492366/180769675-c730986e-4d27-4ac0-bbb2-8904722b45f7.png)
+
+> You can check and make reference to the code [here](https://github.com/BrownEyes01/Data-Wrangling/commit/ba4e427627ab4f5a5929e731f9e38ed9a144c1ae) in details.
+</br> Thank You!
