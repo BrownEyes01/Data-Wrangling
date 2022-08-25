@@ -14,7 +14,7 @@ In order to get insights from the data, we queried the data set a bit. From thes
 - The average retweet count was 2900 and the average favorite count was 9049.
 - Of the four stages, we have more dogs that were classified as pupper, which from the definitions are dogs that are young and small and not so inexperienced. Can also be classified as the dog equivalent of a baby.
 ## Key Insights for Presentation
-- View the content on nbviewer: Jupyter Notebook
+- View the content on nbviewer: [Jupyter Notebook](http://nbviewer.org/github/BrownEyes01/Data-Wrangling/blob/main/Project2.ipynb)
 - Alternatively you can download the HTML file in the subdirectory and view content locally on any browser.
 ## Getting Started
 > For testing and development purposes, these instructions will help you get a copy of the project up and running on your system.
