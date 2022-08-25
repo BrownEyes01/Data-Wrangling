@@ -48,6 +48,6 @@ pip install -r requirements.txt
 ## Authors
 - Frances Uzedu
 ## License
-- This project is licensed under the GNU License- see the LICENSE for details.
+- This project is licensed under the GNU License- see the [LICENSE](https://github.com/BrownEyes01/Data-Wrangling/commit/dc794cd084270ed512d16ba0440d38b9b207f6ab) for details.
 ## Acknowledgements
 - Udacity ALX-T Data Analyst Nanodegree
